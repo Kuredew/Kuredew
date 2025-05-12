@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+for those who are wondering, I'm just a weird guy who likes coding and editing recently, here you can see the projects I've been working on lately.
+
+i'm furina fan btw
 <!--
 **Kuredew/Kuredew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
