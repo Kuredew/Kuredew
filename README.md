@@ -3,6 +3,9 @@
 for those who are wondering, I'm just a weird guy who likes coding and editing recently, here you can see the projects I've been working on lately.
 
 i'm furina fan btw
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuredew)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Kuredew/Kuredew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
