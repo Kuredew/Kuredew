@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-for those who are wondering, I'm just a weird guy who likes coding and editing recently, here you can see the projects I've been working on lately.
+sorry for touching vscode :(
 
 i'm furina fan btw
 
@@ -9,7 +9,7 @@ i'm furina fan btw
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuredew&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-python is goaaaaaaaaated
+golang is goaaaaaaaaated
 <!--
 **Kuredew/Kuredew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
