@@ -12,8 +12,8 @@ I don't know, I probably just like seeing colored terminal text ( im using nvim 
 
 * **Instagram**: [@zeanlost](https://www.instagram.com/zeanlost/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuredew&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-black-mu.vercel.app/api/top-langs/?username=Kuredew&layout=compact&theme=tokyonight)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuredew&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats-black-mu.vercel.app/api?username=Kuredew&theme=tokyonight)
 
 
